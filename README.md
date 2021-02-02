@@ -6,6 +6,6 @@ Adding small brief of each assignment
 2. Assignment 2 : Forward kinematics. Calculating end effector Jacobian of a 6 DOF PUMA. Implementing a trajector generator using cubic splines. The end effector of PUMA moves in a circular motion
 3. Assignment 3 : Control theory and visual servoing. Find circle feature so that end effector follows the circle
 4. Assignment 4 : Mapping and localization. Particle filter
-5. Assignment 5 : Implementing RRT extensions (Pathing)
+5. Assignment 5 : Implementing RRT extensions (Path Planning)
 
 P.S : All assignments contain a theory and an implementation part. While there could be some errors in the theoretical parts, the implementations are correct
